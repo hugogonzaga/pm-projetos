@@ -1,0 +1,41 @@
+div {
+    background-color: #27ae60;
+    width: 100%;
+    height: 150px;
+    margin-bottom: 2px;
+}
+#flecha {
+    width: 17px;
+    height: 30px;
+}
+
+img {
+    padding-left: 28px;
+    padding-top: 55px;
+}
+#caixa {
+    padding-right: 23px;
+
+}
+body {
+    font-family: Oswald;
+    color: #ffffff;
+
+}
+span {
+    width: 124px;
+    height: 30px;
+    font-size: 20px;
+    font-weight: 500;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+
+}
+#iguais {
+    background-color: #4a4a4a;
+
+}
+a {
+    text-decoration: none;
+    color: #fff;
+}
