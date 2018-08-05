@@ -26,7 +26,7 @@ button {
     color: #39393a;
     font-weight: 500;
     font-size: 18px;
-    font-family: 'Roboto' sans-serif;
+    font-family: 'Roboto',sans-serif;
 }
 
 
@@ -36,7 +36,7 @@ a {
     text-shadow: 1px 1px 0 #000;
     font-size: 14px;
     font-weight: 400;
-    font-family: 'Roboto' sans-serif;
+    font-family: 'Roboto',sans-serif;
 
 }
 form {
